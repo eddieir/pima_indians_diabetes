@@ -11,4 +11,6 @@ This repo detecated to the analysis at the Pima-Indians diabetes which 768 row a
 8- class = Class variable (1: tested positive for diabetes, 0: tested negative for diabetes)
 
 
-The implementation done by using Keras and the results 
+The implementation done by using Keras and the accuracy results are: 
+![accuracy](https://user-images.githubusercontent.com/23243761/52522051-a2c89080-2c80-11e9-8d0b-ce96458d1fb5.png)
+
