@@ -31,6 +31,9 @@ As we could see from this model(the photo of the model is attached bellow) we go
 
 After the definition of the inital model I retrain the last model and I got the improvment at the accuracy which is 81.39% and the loss accuracy is also improved compare to the previous model:
 
+![8139_accuracy](https://user-images.githubusercontent.com/23243761/52522167-e1ab1600-2c81-11e9-9592-0f611bbe45c5.png)
+![8139_loss](https://user-images.githubusercontent.com/23243761/52522169-e1ab1600-2c81-11e9-82df-edcfc0b91da1.png)
+![final_model](https://user-images.githubusercontent.com/23243761/52522170-e1ab1600-2c81-11e9-9050-514ce8897989.png)
 
 
 
