@@ -24,3 +24,6 @@ The implementation done by using Keras and the accuracy and loss results are:
 
 ![loss](https://user-images.githubusercontent.com/23243761/52522082-02bf3700-2c81-11e9-9f39-2e25b22ba034.png)
 
+As we could see from this model(the photo of the model is attached bellow) we got 80.95% accuracy which is higher than any results which exists over the Internet
+
+
