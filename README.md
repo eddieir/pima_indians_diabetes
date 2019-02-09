@@ -29,3 +29,8 @@ As we could see from this model(the photo of the model is attached bellow) we go
 ![model](https://user-images.githubusercontent.com/23243761/52522133-7103f980-2c81-11e9-8802-5725e03df720.png)
 
 
+After the definition of the inital model I retrain the last model and I got the improvment at the accuracy which is 81.39% and the loss accuracy is also improved compare to the previous model:
+
+
+
+
